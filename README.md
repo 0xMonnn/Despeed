@@ -3,8 +3,8 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/DeSpeed-Auto-Bot.git
-cd DeSpeed-Auto-Bot
+git clone https://github.com/0xMonnn/Despeed.git
+cd Despeed
 ```
 
 2. Install dependencies:
